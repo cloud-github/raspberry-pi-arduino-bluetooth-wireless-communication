@@ -87,6 +87,10 @@ if every thing goes fine, you will see such screen
 
 Also go to Adapter menu -> Preferences , then set visibility setting - Always visible
 
+Install python-serial
+
+    sudo apt-get install python-serial
+
 Python code:
 
     import serial

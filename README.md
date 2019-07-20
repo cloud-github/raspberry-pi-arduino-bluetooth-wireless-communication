@@ -28,7 +28,7 @@ Proceed further.
 
 if every thing goes fine, you will see such screen
 
-![alt text](https://raw.githubusercontent.com/cloud-github/raspberry-pi-arduino-bluetooth-wireless-communication/master/public/images/2019-07-19-222407_1366x768_scrot.png)
+![alt text](https://raw.githubusercontent.com/cloud-github/raspberry-pi-arduino-bluetooth-wireless-communication/master/snapshots/2019-07-19-222407_1366x768_scrot.png)
 
 Also go to Adapter menu -> Preferences , then set visibility setting - Always visible
 

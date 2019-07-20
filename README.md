@@ -87,6 +87,22 @@ if every thing goes fine, you will see such screen
 
 Also go to Adapter menu -> Preferences , then set visibility setting - Always visible
 
+Python code:
+
+    import serial
+    import time
+    
+    port = serial.Serial("/dev/rfcomm0", baudrate=9600) # reading and writing data from and to arduino serially.
+                                                        # rfcomm0 -> this could be different
+    
+    while True:
+    	print "DIGITAL LOGIC -- > SENDING..."
+    	port.write(str(3))
+    	rcv = port.readline()
+    	if rcv:
+    	   print(rcv)
+    	time.sleep( 3 )
+
 ### METHOD 2:
 
 Run Terminal:

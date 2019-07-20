@@ -1,0 +1,19 @@
+{
+  "name": "raspberrypi-arduino-bluetooth-serial-communication",
+  "version": "1.0.0",
+  "description": "Bluetooth communication between raspberry pi 3 and arduino using HC-05 bluetooth module",
+  "repository": "https://github.com/cloud-github/raspberry-pi-arduino-bluetooth-wireless-communication",
+  "author": "Mahesh Joshi <mahesh.connectnepal@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "raspberry pi arduino bluetooth communication",
+    "raspberry pi arduino bluetooth python",
+    "bluetooth communication between raspberry pi and arduino",
+    "raspberry pi 3 bluetooth hc 05",
+    "connect arduino and raspberry pi over bluetooth ",
+    "raspberry pi 3 bluetooth serial communication",
+    "interfacing hc 05 with raspberry pi",
+    "how to connect hc-05 to raspberry pi",
+    "raspberry pi and arduino wireless communication"
+  ]
+}

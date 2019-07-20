@@ -1,6 +1,12 @@
 # Raspberry pi and arduino bluetooth wireless communication
 Bluetooth communication between raspberry pi 3 and arduino using HC-05 bluetooth module
 
+## Components Needed
+    * Raspberry pi 3 (it has inbuilt bluetooth)
+    * Arduino UNO
+    * HC-05 bluetooth module (for arduino side)
+    
+
 ## Let's start configuring arduino uno
 
 ## ARDUINO 

@@ -136,4 +136,4 @@ Finally, sending logic to arduino via bluetooth from serial port /dev/rfcomm0
 ![alt text](https://raw.githubusercontent.com/cloud-github/raspberry-pi-arduino-bluetooth-wireless-communication/master/snapshots/2019-07-19-225441_1366x768_scrot.png)
 
 
-
+Please check : https://medium.com/mahesh_joshi/raspberry-pi-3-and-arduino-communication-via-bluetooth-hc-05-5d7b6f162ab3
